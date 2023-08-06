@@ -14,5 +14,5 @@ while True:
     else:
         print("The number",n,"is not an Armstrong number")
     print("")
-    input("Press any key to continue...")
+    input("Press enter to continue...")
     subprocess.run("cls",shell=True)
